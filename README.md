@@ -23,7 +23,7 @@ Ha-bridge then forwards commands onto piMote which parses the command and can ei
 - Http Verb: POST
 - Content Type: html/text (soon to be JSON)
 - Target Item for LIRC: http://your.tomcat.deployment/LIRCServlet_war/servlets.LIRCServlet?remote=tv&command=power
-- Target Item for Denon: http://192.168.0.5:8084/LIRCServlet_war/servlets.LIRCServlet?remote=avr&command=KEY_SOURCE_MEDIAPLAYER
+- Target Item for Denon: http://your.tomcat.deployment/LIRCServlet_war/servlets.LIRCServlet?remote=avr&command=KEY_SOURCE_MEDIAPLAYER
 
 
 
