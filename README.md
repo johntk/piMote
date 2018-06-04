@@ -11,7 +11,7 @@ Ha-bridge then forwards commands onto piMote which parses the command and can ei
 
 - Raspberry pi
 - https://github.com/bwssytems/ha-bridge installed on the pi and connected to your alexa
-- Web Application Server (I use tomcat 8 on the pi)
+- Web Application Server (I use Tomcat 8 on the pi)
 - Java 8+ (soon to be 10)
 - Maven 3.2+ (only for building)
 - You must be connected to the same network as your AV receiver
